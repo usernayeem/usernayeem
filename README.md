@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/DmvGJyQ/github-header-banner.png" alt="Profile Banner">
+  <img src="https://i.ibb.co.com/bgNF0HT3/github-header-banner.png" alt="Profile Banner">
 </p>
 
 <h1 align="center">Hi there, I'm Md Faiaz Ibne Omar Nayeem 👋</h1>
@@ -18,7 +18,7 @@ I am a dedicated MERN Stack Developer with a strong foundation in building dynam
 
 - 🌱 I’m deepening my understanding of server-side rendering and static site generation with **Next.js**.
 - 🛡️ I'm learning web application security by solving labs on **PortSwigger's Web Security Academy**.
-- ☁️ I'm exploring scalable hosting architectures using **AWS** and containerization with **Docker**.
+- 🔍 I'm implementing advanced on-page and technical **SEO** strategies in my personal projects, leveraging my Semrush certifications.
 
 ---
 
@@ -83,22 +83,3 @@ I am a dedicated MERN Stack Developer with a strong foundation in building dynam
 <a href="https://twitter.com/usernayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usernayeem" height="30" width="40" /></a>
 <a href="https://github.com/usernayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="usernayeem" height="30" width="40" /></a>
 </p>
-
----
-
-### 📌 Pinned Repositories
-
-<p align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usernayeem&repo=edu-manage&theme=swift)](https://github.com/usernayeem/edu-manage)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usernayeem&repo=hotel-nest&theme=swift)](https://github.com/usernayeem/hotel-nest)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usernayeem&repo=garden-community&theme=swift)](https://github.com/usernayeem/garden-community)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usernayeem&repo=web-animation&theme=swift)](https://github.com/usernayeem/web-animation)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usernayeem&repo=crypto-genius&theme=swift)](https://github.com/usernayeem/crypto-genius)
-
-</p>
-
