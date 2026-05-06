@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Md Faiaz Ibne Omar Nayeem 👋</h1>
-<h3 align="center">A MERN Stack Web Developer Passionate About Building Scalable Web Applications</h3>
+<h3 align="center">A Full Stack Web Developer Passionate About Building Scalable Web Applications</h3>
 
 ---
 
