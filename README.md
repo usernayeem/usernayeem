@@ -10,7 +10,7 @@
 
 ### 🙋‍♂️ About Me
 
-I am a dedicated MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. My expertise spans from front-end technologies like React.js and Next.js to back-end development with Node.js and Express.js. I am also passionate about DevOps principles, cloud foundations, and web application security, constantly enhancing my skills by studying OWASP and solving labs on PortSwigger.
+Hi, I’m Nayeem — a dedicated Full Stack Developer with a strong focus on building dynamic, scalable web applications. Skilled in front-end technologies such as React.js and Next.js, I create seamless, user-friendly interfaces, while my back-end expertise in Node.js and Express.js enables me to develop robust and efficient server-side solutions. I am experienced in working with PostgreSQL and MongoDB, and I leverage AWS cloud services to deploy and manage modern applications effectively. Passionate about secure development, I integrate solutions like Better Auth to strengthen application security and use Docker to streamline development and deployment workflows. I stay up to date with the latest DevOps practices and advancements in web application security.
 
 ---
 
