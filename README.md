@@ -76,16 +76,34 @@ Hi, I’m Nayeem — a dedicated Full Stack Developer with a strong focus on bui
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Let's Connect & Create Magic Together! ✨
 
-<p align="left">
-  <a href="https://linkedin.com/in/usernayeem" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/usernayeem" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://github.com/usernayeem" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+
+### 💬 Find me across the web — I'd love to hear from you!
+
+<a href="https://linkedin.com/in/usernayeem" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/usernayeem" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://github.com/usernayeem" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+to+Collaboration+%F0%9F%A4%9D;Let's+Build+Something+Amazing!+%F0%9F%9A%80;DM's+Are+Always+Open+%F0%9F%92%8C" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=usernayeem&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/usernayeem?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers" />
+
+</div>
+
+---
+
+<h3 align="center">⭐ From <a href="https://github.com/usernayeem">usernayeem</a> — Thanks for visiting! ⭐</h3>
+
