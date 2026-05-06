@@ -70,22 +70,29 @@ Hi, I’m Nayeem — a dedicated Full Stack Developer with a strong focus on bui
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernayeem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernayeem&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernayeem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Nayeem's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernayeem&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usernayeem&theme=dracula" alt="nayeem-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernayeem&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/usernayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usernayeem" height="30" width="40" /></a>
-<a href="https://twitter.com/usernayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usernayeem" height="30" width="40" /></a>
-<a href="https://github.com/usernayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="usernayeem" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/usernayeem" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/usernayeem" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://github.com/usernayeem" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
