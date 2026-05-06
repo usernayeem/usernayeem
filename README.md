@@ -72,14 +72,7 @@ Hi, I’m Nayeem — a dedicated Full Stack Developer with a strong focus on bui
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernayeem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Nayeem's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernayeem&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernayeem&theme=dracula" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-profile-theta.vercel.app/api?username=usernayeem)](https://github.com/usernayeem/github-readme-profile)
 
 ---
 
